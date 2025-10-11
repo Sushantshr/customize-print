@@ -29,6 +29,11 @@ export default function HomePage() {
                 View Cart
               </Button>
             </Link>
+            <Link href="/print-order">
+              <Button variant="outline" size="lg" className="w-full sm:w-auto">
+                Print Order Form
+              </Button>
+            </Link>
           </div>
         </div>
       </div>
